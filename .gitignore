@@ -26,4 +26,7 @@ epi_judge_java/java_build/
 *.class
 
 # OS X specific files
-.DS_Store
+.DS_Store.venv
+
+# venvs
+.venv
